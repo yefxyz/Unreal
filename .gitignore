@@ -1,3 +1,13 @@
+VRDemo/.vs
+VRDemo/Binaries
+VRDemo/Debug
+VRDemo/Intermediate
+VRDemo/Saved/*
+!VRDemo/Saved/Config
+VRDemo/Saved/Config/*
+!VRDemo/Saved/Config/Windows
+*.VC.db
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
